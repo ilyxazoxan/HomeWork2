@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad3358e-032f-414d-b88b-c4f12fe40abc" name="Changes" comment="Mortgage">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TravelTime.java" afterDir="false" />
+    <list default="true" id="dad3358e-032f-414d-b88b-c4f12fe40abc" name="Changes" comment="TravelTime">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DiscountsOnShirts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +42,16 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TravelTime">
+  <component name="RunManager" selected="Application.DiscountsOnShirts">
     <configuration name="AgeOfTheUniverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AgeOfTheUniverse" />
+      <module name="HomeWork2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscountsOnShirts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiscountsOnShirts" />
       <module name="HomeWork2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,20 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Workers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Workers" />
-      <module name="HomeWork2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiscountsOnShirts" />
         <item itemvalue="Application.TravelTime" />
         <item itemvalue="Application.Mortgage" />
         <item itemvalue="Application.AgeOfTheUniverse" />
         <item itemvalue="Application.Glass" />
-        <item itemvalue="Application.Workers" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667070730454</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="TravelTime">
+      <created>1667071352762</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667071352762</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +195,7 @@
     <MESSAGE value="Glass" />
     <MESSAGE value="AgeOfTheUniverse" />
     <MESSAGE value="Mortgage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mortgage" />
+    <MESSAGE value="TravelTime" />
+    <option name="LAST_COMMIT_MESSAGE" value="TravelTime" />
   </component>
 </project>
