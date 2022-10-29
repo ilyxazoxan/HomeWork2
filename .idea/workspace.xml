@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad3358e-032f-414d-b88b-c4f12fe40abc" name="Changes" comment="BuratinoAndApples">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SarymanAndLanisters.java" afterDir="false" />
+    <list default="true" id="dad3358e-032f-414d-b88b-c4f12fe40abc" name="Changes" comment="SarymanAndLanisters">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Workers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SarymanAndLanisters">
+  <component name="RunManager" selected="Application.Workers">
     <configuration name="BuratinoAndApples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuratinoAndApples" />
       <module name="HomeWork2" />
@@ -57,8 +57,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Workers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Workers" />
+      <module name="HomeWork2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Workers" />
         <item itemvalue="Application.SarymanAndLanisters" />
         <item itemvalue="Application.BuratinoAndApples" />
       </list>
@@ -94,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667061960567</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="SarymanAndLanisters">
+      <created>1667064759512</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667064759512</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BuratinoAndApples" />
-    <option name="LAST_COMMIT_MESSAGE" value="BuratinoAndApples" />
+    <MESSAGE value="SarymanAndLanisters" />
+    <option name="LAST_COMMIT_MESSAGE" value="SarymanAndLanisters" />
   </component>
 </project>
