@@ -5,5 +5,6 @@ public class AgeOfTheUniverse {
         long difference = (ageOfTheUniverse / theAgeOfHumanity);
         System.out.println("Вселенная старше людей в " + difference + " лет");
 
+
     }
 }
