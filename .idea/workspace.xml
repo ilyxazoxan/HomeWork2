@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad3358e-032f-414d-b88b-c4f12fe40abc" name="Changes" comment="DiscountsOnShirts">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DiscountsOnShirts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DiscountsOnShirts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Glass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Glass.java" afterDir="false" />
-    </list>
+    <list default="true" id="dad3358e-032f-414d-b88b-c4f12fe40abc" name="Changes" comment="AgeOfTheUniverse" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,7 +185,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667073622675</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="DiscountsOnShirts">
+      <created>1667141842379</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667141842379</updated>
+    </task>
+    <task id="LOCAL-00014" summary="AgeOfTheUniverse">
+      <created>1667141913319</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667141913319</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,10 +218,10 @@
     <MESSAGE value="SarymanAndLanisters" />
     <MESSAGE value="Workers" />
     <MESSAGE value="Glass" />
-    <MESSAGE value="AgeOfTheUniverse" />
     <MESSAGE value="Mortgage" />
     <MESSAGE value="TravelTime" />
     <MESSAGE value="DiscountsOnShirts" />
-    <option name="LAST_COMMIT_MESSAGE" value="DiscountsOnShirts" />
+    <MESSAGE value="AgeOfTheUniverse" />
+    <option name="LAST_COMMIT_MESSAGE" value="AgeOfTheUniverse" />
   </component>
 </project>
