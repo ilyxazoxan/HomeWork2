@@ -5,6 +5,7 @@ public class DiscountsOnShirts {
         int discountFrom = 10;
         long add = discountFrom - selectedShirts;
         System.out.println("Столько рубашек нужно докупить для получения скидки: " + add);
+
         long price = selectedShirts * shirtPrice;
         System.out.println("Цена выбранных рубашек без скидки: " + price);
         long priceAll = discountFrom * shirtPrice;

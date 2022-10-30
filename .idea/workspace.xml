@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dad3358e-032f-414d-b88b-c4f12fe40abc" name="Changes" comment="TravelTime">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DiscountsOnShirts.java" afterDir="false" />
+    <list default="true" id="dad3358e-032f-414d-b88b-c4f12fe40abc" name="Changes" comment="DiscountsOnShirts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DiscountsOnShirts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DiscountsOnShirts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Glass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Glass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2GmCPaaMQBvMqJXaBmihss12UHb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,7 +50,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DiscountsOnShirts">
+  <component name="RunManager" selected="Application.AgeOfTheUniverse">
     <configuration name="AgeOfTheUniverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AgeOfTheUniverse" />
       <module name="HomeWork2" />
@@ -80,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AgeOfTheUniverse" />
+        <item itemvalue="Application.Glass" />
         <item itemvalue="Application.DiscountsOnShirts" />
         <item itemvalue="Application.TravelTime" />
         <item itemvalue="Application.Mortgage" />
-        <item itemvalue="Application.AgeOfTheUniverse" />
-        <item itemvalue="Application.Glass" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667071352762</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="DiscountsOnShirts">
+      <created>1667073622675</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667073622675</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +211,7 @@
     <MESSAGE value="AgeOfTheUniverse" />
     <MESSAGE value="Mortgage" />
     <MESSAGE value="TravelTime" />
-    <option name="LAST_COMMIT_MESSAGE" value="TravelTime" />
+    <MESSAGE value="DiscountsOnShirts" />
+    <option name="LAST_COMMIT_MESSAGE" value="DiscountsOnShirts" />
   </component>
 </project>
